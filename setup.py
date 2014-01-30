@@ -4,7 +4,7 @@ setup(name='thealot-alot',
       author='Edvin "nCrazed" Malinovskis',
       author_email='edvin.malinovskis@gmail.com',
       url='https://github.com/nCrazed/AlotPlugin',
-      packages=['thealot', 'thealot.plugins'],
+      packages=['thealot.plugins'],
       namespace_packages=['thealot'],
       install_requires=[
           'thealot',
